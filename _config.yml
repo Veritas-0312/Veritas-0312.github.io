@@ -14,28 +14,30 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Veritas | Tech & Cybersecurity Journey # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: A journey through software, cybersecurity, and everything between.
+
+ # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  "I'm a Computer Science graduate passionate about software engineering and cybersecurity. Through this blog, I document my learning journey, projects, and experiences — both technical and personal — as I work toward building a career in tech. Whether it's writing about code, capturing a Capture the Flag challenge, or reflecting on life as an aspiring developer, this space is where I grow and share."
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://Veritas-0312.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: Veritas-0312 # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: Veritas03 # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Satyavrat Yadav
+  email: satyavratyadav2000@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
